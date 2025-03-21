@@ -1,0 +1,12 @@
+---
+base: "lua52"
+
+globals:
+  core:
+    any: true
+  blight:
+    any: true
+  alias:
+    any: true
+  trigger:
+    any: true
